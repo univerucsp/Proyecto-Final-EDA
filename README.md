@@ -6,6 +6,7 @@
 # Instrucciones para Compilar y Ejecutar
 ### Requisitos previos
 - Tener un compilador de C++ instalado en tu sistema.
+- El archivo csv del que se vaya a tomar los datos debe de llamarse "test_final.csv".
 - Tener python instalado para la visualizacion de los clusters y tener instalado matplotlib.
 ```bash
 pip install matplotlib
