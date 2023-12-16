@@ -23,7 +23,7 @@ Para ejecutar y obtener los resultados via terminal ejecutar lo siguiente:
 ./programa
 ```
 - El programa primero preprocesara los puntos, una vez termine pedira los puntos extremos de el area rectangular que se quiere consultar los clusters, solo ingreselos uno por uno y el programa deberia mostrarle inmediatamente los clusters.
-- Terminando esto el programa preguntara si quiere continuar, solo escribir "si" para realice otra consulta de area y si se quiere salir escribir "no".
+- Terminando esto el programa preguntara si quiere continuar, solo escribir "si" para hacer otra consulta de area y si se quiere salir escribir "no".
 - Si se quiere ver de manera visual los resultados ejecutar el siguiente comando:
 ```bash
 python visual.py
